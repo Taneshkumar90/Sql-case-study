@@ -109,9 +109,21 @@ FROM
 WHERE
        RANKS=1;
 ```
+- **2nd Solution**
+```
+select product_name, count(S.product_id) as sale_count
+from sales S join menu M 
+where S.product_id = M.product_id
+group by 1
+order by 2 desc
+limit 1;
+```
+
 #### Output:-
-![Ans 4](https://github.com/user-attachments/assets/eea13dfc-d857-42a1-b7ed-051b16ead093)
-Ramen is the item that was purchased the most by all customers and it was purchased 8 times.
+
+<img width="258" height="56" alt="Screenshot 2025-11-15 141654" src="https://github.com/user-attachments/assets/4b81ca02-214a-4b31-b46b-b5dfef119950" />
+
+- **Ramen is the item that was purchased the most by all customers and it was purchased 16 times.**
 ---
 #### 5. Which item was the most popular for each customer?
 #### Solution:- 
@@ -139,6 +151,9 @@ FROM
 WHERE
       RANKS=1;
 ```
+
+
+
 #### Output:-
 ![Ans 4 1](https://github.com/user-attachments/assets/a28219c0-cf9f-43bf-b83e-b741de5d5bad)
 - For both the customers A and C, ramen was the most popular item.
@@ -169,6 +184,7 @@ FROM
 WHERE
        RANKS=1;
 ```
+
 ### Output:-
 ![Ans 6](https://github.com/user-attachments/assets/a369b56f-5bf3-43d0-bcd5-0c97d560197b)
 - After becoming a member, A's first order was curry.
