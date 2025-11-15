@@ -32,7 +32,7 @@ GROUP BY
 
 <img width="279" height="133" alt="Screenshot 2025-11-15 113339" src="https://github.com/user-attachments/assets/0150a4c2-9140-41f1-b193-d80fa23008c5" />
 
-- Customer A spent $172
+- Customer A spent $152
 - Customer B spent $148
 - Customer C spent $72
 ---
