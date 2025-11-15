@@ -29,10 +29,12 @@ GROUP BY
          customer_id;
 ```
 #### Output:-
-![Ans 1](https://github.com/user-attachments/assets/70ff6885-7640-42a8-9da7-c1508e4c7fad)
-- Customer A spent $76
-- Customer B spent $74
-- Customer C spent $36
+
+<img width="279" height="133" alt="Screenshot 2025-11-15 113339" src="https://github.com/user-attachments/assets/0150a4c2-9140-41f1-b193-d80fa23008c5" />
+
+- Customer A spent $172
+- Customer B spent $148
+- Customer C spent $72
 ---
 #### 2. How many days has each customer visited the restaurant?
 #### Solution:-
