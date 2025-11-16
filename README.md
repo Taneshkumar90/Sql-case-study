@@ -271,9 +271,9 @@ GROUP BY
 
 <img width="266" height="133" alt="Screenshot 2025-11-16 084034" src="https://github.com/user-attachments/assets/b108f7a4-dd3f-4022-8386-3b46a5eb2811" />
 
-- Total points for Customer A is $860.
-- Total points for Customer B is $940.
-- Total points for Customer C is $360.
+- Total points for Customer A is $3040.
+- Total points for Customer B is $2926.
+- Total points for Customer C is $1440.
 ---
 #### 10. In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January?
 #### Solution:-
