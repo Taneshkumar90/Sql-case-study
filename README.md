@@ -268,7 +268,9 @@ GROUP BY
          customer_id;
 ```
 #### Output:-
-![Ans 9](https://github.com/user-attachments/assets/86fa1c12-0187-4a13-8555-b9c7f83de27c)
+
+<img width="266" height="133" alt="Screenshot 2025-11-16 084034" src="https://github.com/user-attachments/assets/b108f7a4-dd3f-4022-8386-3b46a5eb2811" />
+
 - Total points for Customer A is $860.
 - Total points for Customer B is $940.
 - Total points for Customer C is $360.
