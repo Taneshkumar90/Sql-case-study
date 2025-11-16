@@ -309,8 +309,8 @@ ORDER BY S.customer_id;
 <img width="205" height="103" alt="Screenshot 2025-11-16 221514" src="https://github.com/user-attachments/assets/8dc509b5-5764-48db-a4a8-2c93505c29d5" />
 
 
-- Total points for Customer A is 1,370.
-- Total points for Customer B is 820.
+- Total points for Customer A is 2740.
+- Total points for Customer B is 1640.
 ---
 ## Bonus Questions
 #### Join All The Things
