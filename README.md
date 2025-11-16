@@ -303,7 +303,12 @@ Group by S.customer_id
 ORDER BY S.customer_id;
 ```
 #### Output:-
-![Ans 10](https://github.com/user-attachments/assets/2ad667e0-ad23-4997-a489-6b75065b7ed7)
+
+
+
+<img width="205" height="103" alt="Screenshot 2025-11-16 221514" src="https://github.com/user-attachments/assets/8dc509b5-5764-48db-a4a8-2c93505c29d5" />
+
+
 - Total points for Customer A is 1,370.
 - Total points for Customer B is 820.
 ---
