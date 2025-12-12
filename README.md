@@ -1,4 +1,4 @@
-# SQL Case Study # - Danny's Diner
+# SQL Case Study  - Danny's Diner
 #### ![Danny's Diner](https://github.com/user-attachments/assets/4057eff8-3847-435e-9af6-853ead99e840)
 ## 📚 Table of Contents
 - Business Task
